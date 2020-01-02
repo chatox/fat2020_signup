@@ -1,0 +1,10 @@
+First Name,Last Name,Email Address,Confirmation #,Original Response Date,Admission Item
+FN9,LN9,reg9,COD009,12/11/2019 12:42:00 PM,"Academic/Government, conference only (ACM/SIG Member)"
+FN2,LN2,reg2,COD002,11/19/2019 5:19:00 PM,"Academic/Government, tutorials + conference (ACM/SIG Member)"
+FN1,LN1,reg1,COD001,10/24/2019 5:39:00 PM,"Industry, tutorials + conference (Non-Member)"
+FN5,LN5,reg5,COD005,12/2/2019 6:20:00 AM,"Industry, tutorials + conference (Non-Member)"
+FN8,LN8,reg8,COD008,12/10/2019 3:21:00 PM,"Industry, tutorials + conference (Non-Member)"
+FN4,LN4,reg4,COD004,11/30/2019 3:47:00 PM,"Student/Non-Profit, tutorials + conference (ACM/SIG Member )"
+FN7,LN7,reg7,COD007,12/4/2019 3:48:00 PM,"Student/Non-Profit, tutorials + conference (ACM/SIG Member )"
+FN6,LN6,reg6,COD006,12/4/2019 3:45:00 PM,"Student/Non-Profit, tutorials only (ACM/SIG Member )"
+FN3,LN3,reg3,COD003,11/27/2019 8:24:00 PM,"Student/Non-Profit, tutorials only (Non-Member)"

@@ -1,0 +1,10 @@
+Timestamp,Email Address,Registration code,Tutorial preference [T1],Tutorial preference [T2],Tutorial preference [T3],Tutorial preference [T4],Tutorial preference [T5],Tutorial preference [T6],Tutorial preference [T7],CRAFT preference [C1],CRAFT preference [C2],CRAFT preference [C3],CRAFT preference [C4],CRAFT preference [C5]
+12/26/2019 16:30:22,reg1@chato.cl,COD001,Highest,,,,,,High,Highest,High,Indifferent,Low,Lowest
+12/26/2019 16:30:23,reg2@chato.cl,COD002,Highest,High,,,,,,Highest,High,Lowest,Lowest,Indifferent
+12/26/2019 16:30:24,reg3@chato.cl,COD003,Highest,Indifferent,High,Lowest,Lowest,Lowest,Low,,,,,
+12/26/2019 16:30:25,reg4@chato.cl,COD004,Highest,Lowest,Indifferent,High,Lowest,Lowest,Low,Highest,Indifferent,Low,High,Lowest
+12/26/2019 16:30:26,reg5@chato.cl,COD005,High,Indifferent,Highest,Lowest,Low,Lowest,Lowest,High,Lowest,Lowest,Highest,Indifferent
+12/26/2019 16:30:27,reg6@chato.cl,COD006,Lowest,Highest,Lowest,Indifferent,Lowest,High,Lowest,,,,,
+12/26/2019 16:30:28,reg7@chato.cl,COD007,Lowest,Lowest,Lowest,Indifferent,Highest,High,Low,High,Lowest,Highest,Indifferent,Low
+12/26/2019 16:30:29,reg8@chato.cl,COD008,,,,High,,Highest,,Indifferent,Highest,Lowest,Low,High
+12/26/2019 16:34:29,reg9@chato.cl,COD009,,,,,,,,Lowest,High,Indifferent,Highest,Lowest
