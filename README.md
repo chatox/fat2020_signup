@@ -1,2 +1,3 @@
-# fat2020_signup
-Processing of sign-ups to sessions in FAT*2020
+# FAT 2020 Sign-ups
+
+Python notebook to process sign-ups to sessions in FAT*2020
