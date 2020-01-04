@@ -1,4 +1,4 @@
-Timestamp,Email Address,Registration code,Tutorial preference [T1],Tutorial preference [T2],Tutorial preference [T3],Tutorial preference [T4],Tutorial preference [T5],Tutorial preference [T6],Tutorial preference [T7],CRAFT preference [C1],CRAFT preference [C2],CRAFT preference [C3],CRAFT preference [C4],CRAFT preference [C5]
+Timestamp,Email Address,Registration code,Tutorial preferences [T1],Tutorial preferences [T2],Tutorial preferences [T3],Tutorial preferences [T4],Tutorial preferences [T5],Tutorial preferences [T6],Tutorial preferences [T7],CRAFT preferences [C1],CRAFT preferences [C2],CRAFT preferences [C3],CRAFT preferences [C4],CRAFT preferences [C5]
 12/26/2019 16:30:22,reg1@chato.cl,COD001,Highest,,,,,,High,Highest,High,Indifferent,Low,Lowest
 12/26/2019 16:30:23,reg2@chato.cl,COD002,Highest,High,,,,,,Highest,High,Lowest,Lowest,Indifferent
 12/26/2019 16:30:24,reg3@chato.cl,COD003,Highest,Indifferent,High,Lowest,Lowest,Lowest,Low,,,,,
