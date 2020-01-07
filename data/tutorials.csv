@@ -1,15 +1,15 @@
 code;name;blocks;capacity
-ai360;Hands-On Tutorial: AI Explainability 360;A:B;600
-libre;Hands-on Tutorial: Experimentation with fairness-aware recommendation using librec-auto;A:B;150
-whatd;Invited Tutorial: What does 'fairness' mean in (data protection) law?';A;50
+xaind;Implications Tutorial: Explainable AI in Industry - Practical Challenges and Lessons Learned;A;600
+ai360;Hands-On Tutorial: AI Explainability 360;A:B;150
+fairn;Invited Tutorial: What does 'fairness' mean in (data protection) law?';A;75
+libre;Hands-on Tutorial: Experimentation with fairness-aware recommendation using librec-auto;A:B;50
 twocs;Translation tutorial: Two computer scientists and a cultural scientist get hit by a driver-less car: Situating knowledge in the cross-disciplinary study of F-A-T in machine learning;A;50
-xaind;Implications Tutorial: Explainable AI in Industry - Practical Challenges and Lessons Learned;A;150
-po101;Translation Tutorial: Policy 101: An Introduction to Participating in the Policymaking Process;B;50
+po101;Translation Tutorial: Policy 101: An Introduction to Participating in the Policymaking Process;B;600
+posit;Translation Tutorial: Positionality-Aware Machine Learning;B;75
 frien;Translation Tutorial: Can an algorithmic system be a 'friend' to a police officer's discretion?;B;50
-posit;Translation Tutorial: Positionality-Aware Machine Learning;B;600
-probi;Hands-on Tutorial: Probing ML models for fairness with the What-if Tool and SHAP;C;150
-gende;Invited Tutorial: Gender: What the GDPR does not tell us (But maybe you can?);C;75
-toted;Translation Tutorial: From the Total Survey Error Framework to an Error Framework for Digital Traces of Humans;C;50
-leapo;Translation Tutorial: Leap of FATE: Human Rights as a Complementary Framework for AI Policy and Practice;C;50
-nlple;Translation Tutorial: The Meaning and Measurement of Bias: Lessons from NLP;C;50
-inter;Implications Tutorial: Assessing the intersection of Organizational Structure and FAT* efforts within industry;C;600
+meani;Translation Tutorial: The Meaning and Measurement of Bias: Lessons from NLP;C;600
+inter;Implications Tutorial: Assessing the intersection of Organizational Structure and FAT* efforts within industry;C;150
+leapf;Translation Tutorial: Leap of FATE: Human Rights as a Complementary Framework for AI Policy and Practice;C;75
+probi;Hands-on Tutorial: Probing ML models for fairness with the What-if Tool and SHAP;C;50
+gdprw;Invited Tutorial: Gender: What the GDPR does not tell us (But maybe you can?);C;50
+total;Translation Tutorial: From the Total Survey Error Framework to an Error Framework for Digital Traces of Humans;C;30
