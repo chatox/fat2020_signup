@@ -1,15 +1,15 @@
 code;name;blocks;capacity
 xaind;Implications Tutorial: Explainable AI in Industry - Practical Challenges and Lessons Learned;A;600
-ai360;Hands-On Tutorial: AI Explainability 360;A:B;150
-fairn;Invited Tutorial: What does 'fairness' mean in (data protection) law?';A;75
+fairn;Invited Tutorial: What does 'fairness' mean in (data protection) law?';A;150
+ai360;Hands-On Tutorial: AI Explainability 360;A:B;75
 libre;Hands-on Tutorial: Experimentation with fairness-aware recommendation using librec-auto;A:B;50
-twocs;Translation tutorial: Two computer scientists and a cultural scientist get hit by a driver-less car: Situating knowledge in the cross-disciplinary study of F-A-T in machine learning;A;50
+twocs;Translation tutorial: Two computer scientists and a cultural scientist get hit by a driver-less car: Situating knowledge in the cross-disciplinary study of F-A-T in machine learning;A;35
 po101;Translation Tutorial: Policy 101: An Introduction to Participating in the Policymaking Process;B;600
-posit;Translation Tutorial: Positionality-Aware Machine Learning;B;75
-frien;Translation Tutorial: Can an algorithmic system be a 'friend' to a police officer's discretion?;B;50
+posit;Translation Tutorial: Positionality-Aware Machine Learning;B;150
+frien;Translation Tutorial: Can an algorithmic system be a 'friend' to a police officer's discretion?;B;35
 meani;Translation Tutorial: The Meaning and Measurement of Bias: Lessons from NLP;C;600
-inter;Implications Tutorial: Assessing the intersection of Organizational Structure and FAT* efforts within industry;C;150
-leapf;Translation Tutorial: Leap of FATE: Human Rights as a Complementary Framework for AI Policy and Practice;C;75
-probi;Hands-on Tutorial: Probing ML models for fairness with the What-if Tool and SHAP;C;50
+leapf;Translation Tutorial: Leap of FATE: Human Rights as a Complementary Framework for AI Policy and Practice;C;150
+inter;Implications Tutorial: Assessing the intersection of Organizational Structure and FAT* efforts within industry;C;50
+probi;Hands-on Tutorial: Probing ML models for fairness with the What-if Tool and SHAP;C;75
 gdprw;Invited Tutorial: Gender: What the GDPR does not tell us (But maybe you can?);C;50
-total;Translation Tutorial: From the Total Survey Error Framework to an Error Framework for Digital Traces of Humans;C;30
+total;Translation Tutorial: From the Total Survey Error Framework to an Error Framework for Digital Traces of Humans;C;35
