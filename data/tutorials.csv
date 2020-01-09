@@ -4,11 +4,11 @@ po101;Translation Tutorial: Policy 101: An Introduction to Participating in the 
 ai360;Hands-On Tutorial: AI Explainability 360;A:B;75
 libre;Hands-on Tutorial: Experimentation with fairness-aware recommendation using librec-auto;A:B;75
 posit;Translation Tutorial: Positionality-Aware Machine Learning;A;75
-meani;Translation Tutorial: The Meaning and Measurement of Bias: Lessons from NLP;B;600
+fairn;Invited Tutorial: What does 'fairness' mean in (data protection) law?';B;600
 leapf;Translation Tutorial: Leap of FATE: Human Rights as a Complementary Framework for AI Policy and Practice;B;190
 inter;Implications Tutorial: Assessing the intersection of Organizational Structure and FAT* efforts within industry;B;75
 total;Translation Tutorial: From the Total Survey Error Framework to an Error Framework for Digital Traces of Humans;B;30
-fairn;Invited Tutorial: What does 'fairness' mean in (data protection) law?';C;600
+meani;Translation Tutorial: The Meaning and Measurement of Bias: Lessons from NLP;C;600
 probi;Hands-on Tutorial: Probing ML models for fairness with the What-if Tool and SHAP;C;190
 twocs;Translation tutorial: Two computer scientists and a cultural scientist get hit by a driver-less car: Situating knowledge in the cross-disciplinary study of F-A-T in machine learning;C;75
 gdprw;Invited Tutorial: Gender: What the GDPR does not tell us (But maybe you can?);C;75
